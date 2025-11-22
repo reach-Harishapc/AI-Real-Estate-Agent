@@ -1,18 +1,19 @@
+```markdown
 **Demo**
 
-https://github.com/reach-Harishapc/AI-Agent/blob/main/real_estate/demo.png
+![AI Real Estate Agent demo](./real_estate/demo.png)
 
 
 
 **AI Real Estate Agent**
 Problem Statement
-The traditional real estate search process is time-consuming and often overwhelming for buyers. Agents spend a significant amount of time on low-value tasks like initial lead qualification and basic property filtering, limiting their capacity to focus on closing deals. Buyers face delays in getting responses and struggle to find properties that truly match their nuanced preferences.
+The traditional real estate search process is time-consuming and often overwhelming for buyers. Agents spend a significant amount of time on low-value tasks like initial lead qualification and basic p[...]
 
 **Analysis**
 Dimension	Description
 Who	Target Audience: Home Buyers, Property Investors, Renters.
 Beneficiaries: Real Estate Agencies, Individual Agents, Property Managers.
-What	Solution: An intelligent AI Agent that automates property discovery using real-time MLS data, answers queries in natural language, and provides personalized recommendations. It includes built-in financial tools (Mortgage Calculator) and neighborhood insights.
+What	Solution: An intelligent AI Agent that automates property discovery using real-time MLS data, answers queries in natural language, and provides personalized recommendations. It includes built-in [...]
 Where	Deployment: Integrated into Real Estate Agency websites, Mobile Apps, and Messaging platforms (WhatsApp, Telegram).
 When	Availability: 24/7 instant response capability, ensuring no lead is lost due to time zone differences or agent unavailability.
 Why	Drivers:
@@ -35,4 +36,6 @@ Customer Satisfaction: Improved user experience through conversational interacti
 Data Insights: Collection of structured data on user preferences (e.g., "users in NY are asking for gyms more than parking") to inform inventory acquisition.
 Brand Image: Positioning the agency as a tech-forward, modern service provider.
 Strategic Alignment
-This initiative aligns with the goal of automating high-volume, repetitive tasks in the Real Estate sector (as identified in the project README), allowing human agents to focus on negotiation, viewings, and closing.
+This initiative aligns with the goal of automating high-volume, repetitive tasks in the Real Estate sector (as identified in the project README), allowing human agents to focus on negotiation, viewing[...]
+
+```
