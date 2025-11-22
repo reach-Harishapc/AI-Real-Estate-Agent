@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.tools import DuckDuckGoSearchRun
 
 # Set Google API key (ensure this is set in your environment or passed securely)
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyDZj8_ES5NyutmgW_9BUm1Of8AXZJWU4VQ'
+os.environ['GOOGLE_API_KEY'] = 'A**'
 
 # Define Tools
 import json
